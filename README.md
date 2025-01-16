@@ -1,4 +1,4 @@
-## Hey there! This is Andrew Orban, and welcome to my GitHub repo!
+## Hey there! This is Andrew Orban, and welcome to my GitHub repo! I'm currently an IT & Cybersecurity major at WSU, and I'm working on a bunch of personal projects, most of which revolving around video games and other technology-related things. 
 <!--
 **AOrban2005/AOrban2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
